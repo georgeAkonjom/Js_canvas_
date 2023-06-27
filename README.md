@@ -1,6 +1,6 @@
 # Briefing
 
-A most likely incomplete 2d action platformer with multiplayer support (lol). Built with `javascript` and `HTML Canvas`. Noob stuff.
+A most likely incomplete 2d action platformer with multiplayer support (lol). Built with `javascript`, `Web sockets` and `HTML Canvas`. Noob stuff.
 
 ## To do
 
